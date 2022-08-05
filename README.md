@@ -15,7 +15,8 @@ The architecture consists of three main blocks :
 # State diagram of the FSM
 
 
-![Picture1](https://user-images.githubusercontent.com/87245386/183000334-b8fd2d6f-9d73-425f-a915-1cc277aacb1a.png)
+![Picture1](https://user-images.githubusercontent.com/87245386/183000588-0e433359-2bb4-4685-b1df-05116b42dbdd.png)
+
 
 The washing machine control unit transfers from ideal state when inserting a coin supports two modes :
 
